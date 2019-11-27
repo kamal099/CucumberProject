@@ -1,0 +1,7 @@
+stepDefinitions\LoginParametraze.class
+testRunner\LoginInvalideCridintial.class
+stepDefinitions\Login.class
+stepDefinitions\InvalideCridintial.class
+stepDefinitions\orderPhoneDefinitions.class
+testRunner\LoginParametraze.class
+testRunner\OrderPhoneRunner.class
